@@ -135,7 +135,7 @@
     </article>
 
     <aside>
-      <img src="img/ji.jpg" alt="Foto Saya">
+      <img src="ji.jpg" alt="Foto Saya">
       <h3>About Me</h3>
       <p>Saya adalah seorang pengembang web yang bersemangat menciptakan pengalaman pengguna yang luar biasa.</p>
       <div class="social-media">
